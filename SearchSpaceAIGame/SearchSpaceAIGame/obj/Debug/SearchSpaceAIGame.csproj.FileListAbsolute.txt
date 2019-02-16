@@ -1,0 +1,14 @@
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.csprojAssemblyReference.cache
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.csproj.CoreCompileInputs.cache
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.exe.config
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.exe
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.pdb
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.exe
+F:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.pdb
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.exe.config
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.exe
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\bin\Debug\SearchSpaceAIGame.pdb
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.csprojAssemblyReference.cache
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.csproj.CoreCompileInputs.cache
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.exe
+E:\ProgrammingProjects\c#\SearchSpaceAIGame\SearchSpaceAIGame\obj\Debug\SearchSpaceAIGame.pdb
